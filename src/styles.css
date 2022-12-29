@@ -1,0 +1,14 @@
+body {
+  background-color: "#000" !important;
+}
+.mjx-block,
+.mjx-chtml {
+  text-align: left !important;
+}
+div.MathJax_SVG_Display {
+  display: inline !important;
+}
+
+mjx-container[jax="CHTML"][display="true"] {
+  display: inline !important;
+}
